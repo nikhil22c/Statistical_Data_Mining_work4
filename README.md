@@ -1,1 +1,7 @@
-# Statistical_Data_Mining_work4
+Implementation of 
+- Logistic Regression
+- Bagging
+- Boosting
+- Random Forest
+- Gaussian Process Regression
+- Support Vector Regression
